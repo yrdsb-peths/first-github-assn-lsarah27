@@ -9,5 +9,6 @@ Lynn
 
 3. Favourite animal
 Panda
+
 Now click the green 'commit changes' button at the bottom.
 
